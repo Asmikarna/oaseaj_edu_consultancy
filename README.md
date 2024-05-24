@@ -1,4 +1,7 @@
-Oasej Education is one of the leading education consultancy in Nepal. 
+OASEJ is a Nepal government registered professional Computer, language,tuition, IELTS, IT solution Company. 
+OASEJ has been successfully providing different programs like IT Solution, Computer, Tuition, Language, Test preparation courses.
+It aims to assist the trainee to achieve their requirement in Practical, Convenient and effective way in the period of time.
+
 There are different pages where each pages includes different types of section to know about the website.
 Here HTML, CSS, JavaScript and Bootstrap is used.
 1. Home Page: 
